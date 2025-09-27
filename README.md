@@ -57,13 +57,13 @@ endmodule
 ```
 
 ## Simulation Results (GTKWave)
-![Waveform](/mnt/data/Screenshot%20from%202025-09-27%2021-21-58.png)
+![Waveform](/screenshot1)
 
 ## Testbench Source View
-![Testbench](/mnt/data/Screenshot%20from%202025-09-27%2021-29-04.png)
+![Testbench](/screenshot2)
 
 ## Gate-Level Netlist Schematic
-![Netlist](/mnt/data/Screenshot%20from%202025-09-27%2022-36-31.png)
+![Netlist](/screenshot3)
 
 ## Yosys Script
 ```
