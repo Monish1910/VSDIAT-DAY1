@@ -60,10 +60,10 @@ endmodule
 ![Waveform](/screenshot1)
 
 ## Testbench Source View
-![Testbench](/screenshot2)
+![Testbench](/Screenshot2)
 
 ## Gate-Level Netlist Schematic
-![Netlist](/screenshot3)
+![Netlist](/Screenshot3)
 
 ## Yosys Script
 ```
